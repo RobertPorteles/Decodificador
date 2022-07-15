@@ -1,0 +1,36 @@
+body{
+	font-family: 'Montserrat', sans-serif;
+}
+header{
+	padding:30px;
+	background-color: #ce3b6b;
+}
+
+textarea{
+	 
+	 line-height: 40px;
+	 font-size: 30px;
+
+	 
+	 }
+
+button{
+	
+	height: 60px;
+	padding: 15px;
+}
+.buttonX{
+	text-align:center;
+	
+}
+.position{
+	float: right;
+}
+.position1{
+	float: left;
+}
+.Descripto{
+	float: right;
+}
+
+
